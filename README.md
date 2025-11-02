@@ -2,9 +2,10 @@
 
 In this project, we build a modular deep learning pipeline for transfer learning with pretrained computer vision models in [Keras Applications](https://keras.io/api/applications/). This notebook features the workflow for utilizing `VGG16`, a deep convolutional neural network with 16 layers -- [a classic architecture](https://keras.io/api/applications/vgg/) for image recognition tasks. But what makes the pipeline powerful is that it can easily be adapted for any of the commonly used models in Keras.
 
-View the full notebook right here:
+View the full notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/drive/1NjZ7cLypzr5ppp150ZH7oU51q0b2MQPN?usp=sharing)
+[**Open in Colab**](https://colab.research.google.com/drive/1NjZyLypzr5pp150ZH7oU51q0bM2MQPN?usp=sharing)
+
 ---
 
 
@@ -15,6 +16,7 @@ View the full notebook right here:
 - Evaluate the model's performance
 - Visualize the predictions
 - Deploy the pipeline
+
 ---
 
 ### **Tools & Libraries Used**
@@ -25,6 +27,7 @@ View the full notebook right here:
 - **NumPy** — for numerical operations and array manipulation
 - **Pandas** — for managing and inspecting data structures
 - **Matplotlib (PyPlot)** — for visualizing training performance and model predictions
+
 ---
 
 ### **Acknowledgments**: 
