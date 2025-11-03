@@ -4,7 +4,7 @@ In this project, we build a modular deep learning pipeline for transfer learning
 
 View the full notebook in Google Colab:
 
-[**Open in Colab**](https://colab.research.google.com/drive/1NjZyLypzr5pp150ZH7oU51q0bM2MQPN?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NjZyLypzr5pp150ZH7oU51q0bM2MQPN?usp=sharing)
 
 ---
 
