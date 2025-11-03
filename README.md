@@ -5,31 +5,30 @@ In this project, we build a modular deep learning pipeline for transfer learning
 View the full notebook in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NjZyLypzr5pp150ZH7oU51q0bM2MQPN?usp=sharing)
+  
+___
+
+### Project Workflow
+
+- Load and prepare the data  
+- Customize and train `VGG16`  
+- Evaluate the model's performance  
+- Visualize the predictions  
+- Deploy the pipeline  
 
 ---
 
+### Tools & Libraries Used
 
-### **Project Workflow**
-
-- Load and prepare the data
-- Customize and train `VGG16`
-- Evaluate the model's performance
-- Visualize the predictions
-- Deploy the pipeline
-
----
-
-### **Tools & Libraries Used**
-
-- **Google Colab** — for GPU access and seamless notebook execution
-- **Python 3.12.12** — base language for all model building
-- **TensorFlow/Keras** — for model building and training
-- **NumPy** — for numerical operations and array manipulation
-- **Pandas** — for managing and inspecting data structures
-- **Matplotlib (PyPlot)** — for visualizing training performance and model predictions
+- **Google Colab** — for GPU access and seamless notebook execution  
+- **Python 3.12.12** — base language for all model building  
+- **TensorFlow/Keras** — for model building and training  
+- **NumPy** — for numerical operations and array manipulation  
+- **Pandas** — for managing and inspecting data structures  
+- **Matplotlib (PyPlot)** — for visualizing training performance and model predictions  
 
 ---
 
-### **Acknowledgments**: 
+### Acknowledgments
 
-Before diving in, it's important to note that this project was inspired by a lecture notebook in Mohammad Amin Morid's Deep Learning class at the Leavey School of Business at Santa Clara University. Morid is an an Assistant Professor at the school's Information Systems & Analytics department.
+Before diving in, it's important to note that this project was inspired by a lecture notebook in Mohammad Amin Morid's Deep Learning class at the Leavey School of Business at Santa Clara University. Morid is an Assistant Professor in the school's Information Systems & Analytics department.
