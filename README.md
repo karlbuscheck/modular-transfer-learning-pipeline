@@ -4,9 +4,9 @@ In this project, we build a modular deep learning pipeline for transfer learning
 
 View the full notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/github/karlbuscheck/modular-transfer-learning-pipeline/blob/main/modular_transfer_learning_pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karlbuscheck/modular-transfer-learning-pipeline/blob/main/modular_transfer_learning_pipeline.ipynb)
   
-___
+---
 
 ### Project Workflow
 
