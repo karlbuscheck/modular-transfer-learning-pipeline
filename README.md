@@ -32,3 +32,9 @@ View the full notebook in Google Colab:
 ### Acknowledgments
 
 Before diving in, it's important to note that this project was inspired by a lecture notebook in Mohammad Amin Morid's Deep Learning class at the Leavey School of Business at Santa Clara University. Morid is an Assistant Professor in the school's Information Systems & Analytics department.
+
+---
+
+### Recent Updates
+**November 2025:** Reorganized the pretrained-model workflow for clarity.  
+Moved the model summary print to a more logical position and verified feature extraction vs. fine-tuning behavior (~400K trainable parameters).
